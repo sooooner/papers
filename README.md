@@ -47,7 +47,7 @@
 5. Redmon, Joseph, and Ali Farhadi. "YOLO9000: better, faster, stronger." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017. [[ link]()]
 6. Redmon, Joseph, and Ali Farhadi. "Yolov3: An incremental improvement." arXiv preprint arXiv:1804.02767 (2018). [[ link]()]
 
-## GAN
+## Generative model
 
 1. Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. [[review link](https://github.com/sooooner/papers/issues/2)]
 2. Mirza, Mehdi, and Simon Osindero. "Conditional generative adversarial nets." arXiv preprint arXiv:1411.1784 (2014). [[ link](https://arxiv.org/abs/1411.1784)]
@@ -61,6 +61,12 @@
 10. Brock, Andrew, Jeff Donahue, and Karen Simonyan. "Large scale gan training for high fidelity natural image synthesis." arXiv preprint arXiv:1809.11096 (2018). [[ link]()]
 11. Zhang, Han, et al. "Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks." Proceedings of the IEEE international conference on computer vision. 2017. [[ link]()]
 12. Zhu, Jun-Yan, et al. "Unpaired image-to-image translation using cycle-consistent adversarial networks." Proceedings of the IEEE international conference on computer vision. 2017. [[ link]()]
+13. Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013). [[review link](https://github.com/sooooner/papers/issues/7)]
+
+## Super Resolution 
+
+1. Dong, Chao, et al. "Image super-resolution using deep convolutional networks." IEEE transactions on pattern analysis and machine intelligence 38.2 (2015): 295-307. [[review link](https://github.com/sooooner/papers/issues/4)]
+2. Kim, Jiwon, Jung Kwon Lee, and Kyoung Mu Lee. "Accurate image super-resolution using very deep convolutional networks." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[review link](https://github.com/sooooner/papers/issues/5)]
 
 ## NLP
 
@@ -148,6 +154,11 @@
 1. Dong, Xishuang, et al. "An overview of learning to rank for information retrieval." 2009 WRI World Congress on Computer Science and Information Engineering. Vol. 3. IEEE, 2009. [[ link]()]
 2. Liu, Tie-Yan. Learning to rank for information retrieval. Springer Science & Business Media, 2011. [[ link]()]
 3. Pei, Changhua, et al. "Personalized re-ranking for recommendation." Proceedings of the 13th ACM Conference on Recommender Systems. 2019. [[ link]()]
+
+## Reinforcement Learning
+
+1. Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013). [[review link](https://github.com/sooooner/papers/issues/1)]
+
 
 ## Others
 
