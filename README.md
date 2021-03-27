@@ -19,6 +19,8 @@
 4. Ioffe, Sergey, and Christian Szegedy. "Batch normalization: Accelerating deep network training by reducing internal covariate shift." arXiv preprint arXiv:1502.03167 (2015). [[review link](https://github.com/sooooner/papers/issues/18)]
 5. Bergstra, James, and Yoshua Bengio. "Random search for hyper-parameter optimization." The Journal of Machine Learning Research 13.1 (2012): 281-305. [[review link](https://github.com/sooooner/papers/issues/19)]
 6. Hinton, Geoffrey E., et al. "Improving neural networks by preventing co-adaptation of feature detectors." arXiv preprint arXiv:1207.0580 (2012). [[review link](https://github.com/sooooner/papers/issues/20)]
+7. He, Kaiming, et al. "Delving deep into rectifiers: Surpassing human-level performance on imagenet classification." Proceedings of the IEEE international conference on computer vision. 2015. [[link]()]
+
 
 ## Vision
 
@@ -30,13 +32,10 @@
 6. Pavlic, Mario, Gerhard Rigoll, and Slobodan Ilic. "Classification of images in fog and fog-free scenes for use in vehicles." 2013 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2013. [[link]()]
 7. Guerra, Jose Carlos Villarreal, et al. "Weather Classification: A new multi-class dataset, data augmentation approach and comprehensive evaluations of Convolutional Neural Networks." 2018 NASA/ESA Conference on Adaptive Hardware and Systems (AHS). IEEE, 2018. [[review link](https://github.com/sooooner/papers/issues/25)]
 8. Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014). [[review link](https://github.com/sooooner/papers/issues/26)]
-
 9. Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Communications of the ACM 60.6 (2017): 84-90. [[review link](https://github.com/sooooner/papers/issues/28)]
 10. Szegedy, Christian, et al. "Going deeper with convolutions." Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. [[review link](https://github.com/sooooner/papers/issues/29)]
-    - inceptionnet
-11. He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[link]()]
-    - resnet
-12. He, Kaiming, et al. "Delving deep into rectifiers: Surpassing human-level performance on imagenet classification." Proceedings of the IEEE international conference on computer vision. 2015. [[link]()]
+11. He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[review link](https://github.com/sooooner/papers/issues/30)]
+
 
 ## Object Detection
 
@@ -134,9 +133,9 @@
 7. Júnior, Edilson Anselmo Corrêa, Vanessa Queiroz Marinho, and Leandro Borges dos Santos. "NILC-USP at semeval-2017 task 4: A multi-view ensemble for twitter sentiment analysis." Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2017). 2017. [[ link]()]
 
 ## Ad-hoc
-[project github link](https://tnsgh0101.medium.com/query-document-relevence-ranking-model-2-b50af71b2ca7)]
+[[project github link](https://tnsgh0101.medium.com/query-document-relevence-ranking-model-2-b50af71b2ca7)]
 
-1. McDonald, Ryan, Georgios-Ioannis Brokos, and Ion Androutsopoulos. "Deep relevance ranking using enhanced document-query interactions." arXiv preprint arXiv:1809.01682 (2018). [[project review link](https://tnsgh0101.medium.com/query-document-relevence-ranking-model-596c8571b84)] [
+1. McDonald, Ryan, Georgios-Ioannis Brokos, and Ion Androutsopoulos. "Deep relevance ranking using enhanced document-query interactions." arXiv preprint arXiv:1809.01682 (2018). [[project review link](https://tnsgh0101.medium.com/query-document-relevence-ranking-model-596c8571b84)]
 2. Hui, Kai, et al. "Pacrr: A position-aware neural ir model for relevance matching." arXiv preprint arXiv:1704.03940 (2017). [[project review link](https://tnsgh0101.medium.com/query-document-relevence-ranking-model-2-b50af71b2ca7)] 
 3. Guo, Jiafeng, et al. "A deep relevance matching model for ad-hoc retrieval." Proceedings of the 25th ACM International on Conference on Information and Knowledge Management. 2016. [[project review link](https://github.com/sooooner/Query-Document-Relevance-Ranking-model)]
 4. MacAvaney, Sean, et al. "CEDR: Contextualized embeddings for document ranking." Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval. 2019. [[project review link](https://tnsgh0101.medium.com/query-document-relevance-ranking-model-3-9305028cf44)]
