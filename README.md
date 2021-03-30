@@ -39,8 +39,8 @@
 
 ## Object Detection
 
-1. Girshick, Ross, et al. "Rich feature hierarchies for accurate object detection and semantic segmentation." Proceedings of the IEEE conference on computer vision and pattern recognition. 2014. [[link]()]
-2. Girshick, Ross. "Fast r-cnn." Proceedings of the IEEE international conference on computer vision. 2015. [[link]()]
+1. Girshick, Ross, et al. "Rich feature hierarchies for accurate object detection and semantic segmentation." Proceedings of the IEEE conference on computer vision and pattern recognition. 2014. [[review link](https://github.com/sooooner/papers/issues/32)]
+2. Girshick, Ross. "Fast r-cnn." Proceedings of the IEEE international conference on computer vision. 2015. [[review link](https://github.com/sooooner/papers/issues/33)]
 3. Ren, Shaoqing, et al. "Faster r-cnn: Towards real-time object detection with region proposal networks." IEEE transactions on pattern analysis and machine intelligence 39.6 (2016): 1137-1149. [[review link](https://github.com/sooooner/papers/issues/8)]
 4. Redmon, Joseph, et al. "You only look once: Unified, real-time object detection." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[ link]()]
 5. Redmon, Joseph, and Ali Farhadi. "YOLO9000: better, faster, stronger." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017. [[ link]()]
@@ -49,8 +49,8 @@
 ## Generative model
 
 1. Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. [[review link](https://github.com/sooooner/papers/issues/2)] [[code link](https://github.com/sooooner/GAN-implemented-with-tensorflow2)]
-2. Mirza, Mehdi, and Simon Osindero. "Conditional generative adversarial nets." arXiv preprint arXiv:1411.1784 (2014). [[ link](https://arxiv.org/abs/1411.1784)]
-3. Denton, Emily L., Soumith Chintala, and Rob Fergus. "Deep generative image models using an laplacian pyramid of adversarial networks." Advances in neural information processing systems. 2015. [[ link]()]
+2. Mirza, Mehdi, and Simon Osindero. "Conditional generative adversarial nets." arXiv preprint arXiv:1411.1784 (2014). [[review link](https://github.com/sooooner/papers/issues/34)]
+3. Denton, Emily L., Soumith Chintala, and Rob Fergus. "Deep generative image models using an laplacian pyramid of adversarial networks." Advances in neural information processing systems. 2015. [[review link](https://github.com/sooooner/papers/issues/35)]
 4. Karras, Tero, et al. "Progressive growing of gans for improved quality, stability, and variation." arXiv preprint arXiv:1710.10196 (2017). [[ link]()]
 5. Radford, Alec, Luke Metz, and Soumith Chintala. "Unsupervised representation learning with deep convolutional generative adversarial networks." arXiv preprint arXiv:1511.06434 (2015). [[ link]()]
 6. Karras, Tero, Samuli Laine, and Timo Aila. "A style-based generator architecture for generative adversarial networks." Proceedings of the IEEE conference on computer vision and pattern recognition. 2019. [[ link]()]
