@@ -48,7 +48,7 @@
 
 ## Generative model
 
-1. Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. [[review link](https://github.com/sooooner/papers/issues/2)]
+1. Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. [[review link](https://github.com/sooooner/papers/issues/2)] [[code link](https://github.com/sooooner/GAN-implemented-with-tensorflow2)]
 2. Mirza, Mehdi, and Simon Osindero. "Conditional generative adversarial nets." arXiv preprint arXiv:1411.1784 (2014). [[ link](https://arxiv.org/abs/1411.1784)]
 3. Denton, Emily L., Soumith Chintala, and Rob Fergus. "Deep generative image models using an laplacian pyramid of adversarial networks." Advances in neural information processing systems. 2015. [[ link]()]
 4. Karras, Tero, et al. "Progressive growing of gans for improved quality, stability, and variation." arXiv preprint arXiv:1710.10196 (2017). [[ link]()]
@@ -60,7 +60,7 @@
 10. Brock, Andrew, Jeff Donahue, and Karen Simonyan. "Large scale gan training for high fidelity natural image synthesis." arXiv preprint arXiv:1809.11096 (2018). [[ link]()]
 11. Zhang, Han, et al. "Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks." Proceedings of the IEEE international conference on computer vision. 2017. [[ link]()]
 12. Zhu, Jun-Yan, et al. "Unpaired image-to-image translation using cycle-consistent adversarial networks." Proceedings of the IEEE international conference on computer vision. 2017. [[ link]()]
-13. Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013). [[review link](https://github.com/sooooner/papers/issues/7)]
+13. Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013). [[review link](https://github.com/sooooner/papers/issues/7)] [[code link](https://github.com/sooooner/VAE-implemented-with-tensorflow2)]
 
 ## Super Resolution 
 
