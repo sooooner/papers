@@ -20,7 +20,7 @@
 5. Bergstra, James, and Yoshua Bengio. "Random search for hyper-parameter optimization." The Journal of Machine Learning Research 13.1 (2012): 281-305. [[review link](https://github.com/sooooner/papers/issues/19)]
 6. Hinton, Geoffrey E., et al. "Improving neural networks by preventing co-adaptation of feature detectors." arXiv preprint arXiv:1207.0580 (2012). [[review link](https://github.com/sooooner/papers/issues/20)]
 7. He, Kaiming, et al. "Delving deep into rectifiers: Surpassing human-level performance on imagenet classification." Proceedings of the IEEE international conference on computer vision. 2015. [[review link](https://github.com/sooooner/papers/issues/31)]
-
+8. Andrychowicz, Marcin, et al. "Learning to learn by gradient descent by gradient descent." Advances in neural information processing systems 29 (2016): 3981-3989. [[ link]()]
 
 ## Vision
 
@@ -35,20 +35,20 @@
 9. Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Communications of the ACM 60.6 (2017): 84-90. [[review link](https://github.com/sooooner/papers/issues/28)]
 10. Szegedy, Christian, et al. "Going deeper with convolutions." Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. [[review link](https://github.com/sooooner/papers/issues/29)]
 11. He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[review link](https://github.com/sooooner/papers/issues/30)]
-
+12. Wang, Fei, et al. "Residual attention network for image classification." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017. [[review link](https://github.com/sooooner/papers/issues/46)] [[implement link](https://github.com/sooooner/Residual-Attention-Network-with-tensorflow2)]
 
 ## Object Detection
 
 1. Girshick, Ross, et al. "Rich feature hierarchies for accurate object detection and semantic segmentation." Proceedings of the IEEE conference on computer vision and pattern recognition. 2014. [[review link](https://github.com/sooooner/papers/issues/32)]
 2. Girshick, Ross. "Fast r-cnn." Proceedings of the IEEE international conference on computer vision. 2015. [[review link](https://github.com/sooooner/papers/issues/33)]
 3. Ren, Shaoqing, et al. "Faster r-cnn: Towards real-time object detection with region proposal networks." IEEE transactions on pattern analysis and machine intelligence 39.6 (2016): 1137-1149. [[review link](https://github.com/sooooner/papers/issues/8)]
-4. Redmon, Joseph, et al. "You only look once: Unified, real-time object detection." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[ link]()]
-5. Redmon, Joseph, and Ali Farhadi. "YOLO9000: better, faster, stronger." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017. [[ link]()]
+4. Redmon, Joseph, et al. "You only look once: Unified, real-time object detection." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[review link](https://github.com/sooooner/papers/issues/43)]
+5. Redmon, Joseph, and Ali Farhadi. "YOLO9000: better, faster, stronger." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017. [[review link](https://github.com/sooooner/papers/issues/44)]
 6. Redmon, Joseph, and Ali Farhadi. "Yolov3: An incremental improvement." arXiv preprint arXiv:1804.02767 (2018). [[ link]()]
 
 ## Generative model
 
-1. Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. [[review link](https://github.com/sooooner/papers/issues/2)] [[code link](https://github.com/sooooner/GAN-implemented-with-tensorflow2)]
+1. Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. [[review link](https://github.com/sooooner/papers/issues/2)] [[implement link](https://github.com/sooooner/GAN-implemented-with-tensorflow2)]
 2. Mirza, Mehdi, and Simon Osindero. "Conditional generative adversarial nets." arXiv preprint arXiv:1411.1784 (2014). [[review link](https://github.com/sooooner/papers/issues/34)]
 3. Denton, Emily L., Soumith Chintala, and Rob Fergus. "Deep generative image models using an laplacian pyramid of adversarial networks." Advances in neural information processing systems. 2015. [[review link](https://github.com/sooooner/papers/issues/35)]
 4. Karras, Tero, et al. "Progressive growing of gans for improved quality, stability, and variation." arXiv preprint arXiv:1710.10196 (2017). [[review link](https://github.com/sooooner/papers/issues/36)]
@@ -60,7 +60,7 @@
 10. Brock, Andrew, Jeff Donahue, and Karen Simonyan. "Large scale gan training for high fidelity natural image synthesis." arXiv preprint arXiv:1809.11096 (2018). [[ link]()]
 11. Zhang, Han, et al. "Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks." Proceedings of the IEEE international conference on computer vision. 2017. [[ link]()]
 12. Zhu, Jun-Yan, et al. "Unpaired image-to-image translation using cycle-consistent adversarial networks." Proceedings of the IEEE international conference on computer vision. 2017. [[ link]()]
-13. Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013). [[review link](https://github.com/sooooner/papers/issues/7)] [[code link](https://github.com/sooooner/VAE-implemented-with-tensorflow2)]
+13. Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013). [[review link](https://github.com/sooooner/papers/issues/7)] [[implement link](https://github.com/sooooner/VAE-implemented-with-tensorflow2)]
 
 ## Super Resolution 
 
@@ -70,7 +70,7 @@
 ## NLP
 
 1. Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems 30 (2017): 5998-6008. [[ link]()]
-2. Devlin, Jacob, et al. "Bert: Pre-training of deep bidirectional transformers for language understanding." arXiv preprint arXiv:1810.04805 (2018). [[ link]()]
+2. Devlin, Jacob, et al. "Bert: Pre-training of deep bidirectional transformers for language understanding." arXiv preprint arXiv:1810.04805 (2018). [[review link](https://github.com/sooooner/papers/issues/39)]
 3. Madabushi, Harish Tayyar, Elena Kochkina, and Michael Castelle. "Cost-Sensitive BERT for Generalisable Sentence Classification with Imbalanced Data." arXiv preprint arXiv:2003.11563 (2020). [[ link]()]
 4. Liu, Yinhan, et al. "Roberta: A robustly optimized bert pretraining approach." arXiv preprint arXiv:1907.11692 (2019). [[ link]()]
 5. Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." Advances in neural information processing systems 27 (2014): 3104-3112. [[ link]()]
@@ -80,24 +80,19 @@
 9. Cho, Kyunghyun, et al. "On the properties of neural machine translation: Encoder-decoder approaches." arXiv preprint arXiv:1409.1259 (2014). [[ link]()]
 10. Cho, Kyunghyun, et al. "Learning phrase representations using RNN encoder-decoder for statistical machine translation." arXiv preprint arXiv:1406.1078 (2014). [[ link]()]
 11. Mikolov, Tomáš, Wen-tau Yih, and Geoffrey Zweig. "Linguistic regularities in continuous space word representations." Proceedings of the 2013 conference of the north american chapter of the association for computational linguistics: Human language technologies. 2013. [[ link]()]
-12. Wei, Jason, and Kai Zou. "Eda: Easy data augmentation techniques for boosting performance on text classification tasks." arXiv preprint arXiv:1901.11196 (2019). [[ link]()]
+12. Wei, Jason, and Kai Zou. "Eda: Easy data augmentation techniques for boosting performance on text classification tasks." arXiv preprint arXiv:1901.11196 (2019). [[review link](https://github.com/sooooner/papers/issues/40)]
 
 ## Word embedding
 
-1. Mikolov, Tomas, et al. "Distributed representations of words and phrases and their compositionality." Advances in neural information processing systems 26 (2013): 3111-3119. [[ link]()]
-    - Word2Vec
+1. Mikolov, Tomas, et al. "Distributed representations of words and phrases and their compositionality." Advances in neural information processing systems 26 (2013): 3111-3119. [[review link](https://github.com/sooooner/papers/issues/41)]
 2. Mikolov, Tomas, et al. "Efficient estimation of word representations in vector space." arXiv preprint arXiv:1301.3781 (2013). [[ link]()]
-    - CBOW, Skip-gram
 3. Goldberg, Yoav, and Omer Levy. "word2vec Explained: deriving Mikolov et al.'s negative-sampling word-embedding method." arXiv preprint arXiv:1402.3722 (2014). [[ link]()]
-    - Negative-sampling
 4. Le, Quoc, and Tomas Mikolov. "Distributed representations of sentences and documents." International conference on machine learning. 2014. [[ link]()]
-    - Doc2Vec
 5. Patel, Kevin, and Pushpak Bhattacharyya. "Towards lower bounds on number of dimensions for word embeddings." Proceedings of the Eighth International Joint Conference on Natural Language Processing (Volume 2: Short Papers). 2017. [[ link]()]
 6. Yin, Zi, and Yuanyuan Shen. "On the dimensionality of word embedding." Advances in neural information processing systems 31 (2018): 887-898. [[ link]()]
 7. Wang, Yu. "Single Training Dimension Selection for Word Embedding with PCA." arXiv preprint arXiv:1909.01761 (2019). [[ link]()]
 8. Mu, Jiaqi, Suma Bhat, and Pramod Viswanath. "Representing sentences as low-rank subspaces." arXiv preprint arXiv:1704.05358 (2017). [[ link]()]
 9. Kenter, Tom, and Maarten De Rijke. "Short text similarity with word embeddings." Proceedings of the 24th ACM international on conference on information and knowledge management. 2015. [[review link](https://dl.acm.org/doi/10.1145/2806416.2806475)]
-    - oov 처리
 10. Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. "Glove: Global vectors for word representation." Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014. [[ link]()]
 11. Peters, Matthew E., et al. "Deep contextualized word representations." arXiv preprint arXiv:1802.05365 (2018). [[ link]()]
 
@@ -108,7 +103,7 @@
 
 ## Recommendation
 
-1. Covington, Paul, Jay Adams, and Emre Sargin. "Deep neural networks for youtube recommendations." Proceedings of the 10th ACM conference on recommender systems. 2016. [[ link]()]
+1. Covington, Paul, Jay Adams, and Emre Sargin. "Deep neural networks for youtube recommendations." Proceedings of the 10th ACM conference on recommender systems. 2016. [[review link](https://github.com/sooooner/papers/issues/37)]
 2. Davidson, James, et al. "The YouTube video recommendation system." Proceedings of the fourth ACM conference on Recommender systems. 2010. [[ link]()]
 3. He, Xiangnan, et al. "Neural collaborative filtering." Proceedings of the 26th international conference on world wide web. 2017. [[ link]()]
 4. Zhang, Tingting, et al. "Feature-level Deeper Self-Attention Network for Sequential Recommendation." IJCAI. 2019. [[ link]()]
@@ -161,5 +156,4 @@
 
 ## Others
 
-1. Andrychowicz, Marcin, et al. "Learning to learn by gradient descent by gradient descent." Advances in neural information processing systems 29 (2016): 3981-3989. [[ link]()]
 2. Lee, Juhyun, et al. "On-device neural net inference with mobile gpus." arXiv preprint arXiv:1907.01989 (2019). [[ link]()]
