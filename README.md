@@ -147,7 +147,7 @@
 
 1. Dong, Xishuang, et al. "An overview of learning to rank for information retrieval." 2009 WRI World Congress on Computer Science and Information Engineering. Vol. 3. IEEE, 2009. [[ link]()]
 2. Liu, Tie-Yan. Learning to rank for information retrieval. Springer Science & Business Media, 2011. [[ link]()]
-3. Pei, Changhua, et al. "Personalized re-ranking for recommendation." Proceedings of the 13th ACM Conference on Recommender Systems. 2019. [[ link]()]
+3. Pei, Changhua, et al. "Personalized re-ranking for recommendation." Proceedings of the 13th ACM Conference on Recommender Systems. 2019. [[review link](https://github.com/sooooner/papers/issues/47)]
 
 ## Reinforcement Learning
 
