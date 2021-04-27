@@ -98,8 +98,8 @@
 
 ## GPT
 
-1. Radford, Alec, et al. "Improving language understanding by generative pre-training." (2018): 12. [[ link]()]
-2. Radford, Alec, et al. "Language models are unsupervised multitask learners." OpenAI blog 1.8 (2019): 9. [[ link]()]
+1. Radford, Alec, et al. "Improving language understanding by generative pre-training." (2018): 12. [[review link](https://github.com/sooooner/papers/issues/48)]
+2. Radford, Alec, et al. "Language models are unsupervised multitask learners." OpenAI blog 1.8 (2019): 9. [[review link](https://github.com/sooooner/papers/issues/49)]
 
 ## Recommendation
 
