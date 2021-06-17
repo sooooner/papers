@@ -20,7 +20,7 @@
 5. Bergstra, James, and Yoshua Bengio. "Random search for hyper-parameter optimization." The Journal of Machine Learning Research 13.1 (2012): 281-305. [[review link](https://github.com/sooooner/papers/issues/19)]
 6. Hinton, Geoffrey E., et al. "Improving neural networks by preventing co-adaptation of feature detectors." arXiv preprint arXiv:1207.0580 (2012). [[review link](https://github.com/sooooner/papers/issues/20)]
 7. He, Kaiming, et al. "Delving deep into rectifiers: Surpassing human-level performance on imagenet classification." Proceedings of the IEEE international conference on computer vision. 2015. [[review link](https://github.com/sooooner/papers/issues/31)]
-8. Andrychowicz, Marcin, et al. "Learning to learn by gradient descent by gradient descent." Advances in neural information processing systems 29 (2016): 3981-3989. [[ link]()]
+8. Andrychowicz, Marcin, et al. "Learning to learn by gradient descent by gradient descent." Advances in neural information processing systems 29 (2016): 3981-3989. [[review link](https://github.com/sooooner/papers/issues/50)]
 
 ## Vision
 
@@ -81,6 +81,7 @@
 10. Cho, Kyunghyun, et al. "Learning phrase representations using RNN encoder-decoder for statistical machine translation." arXiv preprint arXiv:1406.1078 (2014). [[ link]()]
 11. Mikolov, Tomáš, Wen-tau Yih, and Geoffrey Zweig. "Linguistic regularities in continuous space word representations." Proceedings of the 2013 conference of the north american chapter of the association for computational linguistics: Human language technologies. 2013. [[ link]()]
 12. Wei, Jason, and Kai Zou. "Eda: Easy data augmentation techniques for boosting performance on text classification tasks." arXiv preprint arXiv:1901.11196 (2019). [[review link](https://github.com/sooooner/papers/issues/40)]
+13. Lin, Tianyang, et al. "A Survey of Transformers." arXiv preprint arXiv:2106.04554 (2021). [[review link](https://github.com/sooooner/papers/issues/52)]
 
 ## Word embedding
 
