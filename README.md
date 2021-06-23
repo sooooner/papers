@@ -81,7 +81,7 @@
 10. Cho, Kyunghyun, et al. "Learning phrase representations using RNN encoder-decoder for statistical machine translation." arXiv preprint arXiv:1406.1078 (2014). [[ link]()]
 11. Mikolov, Tomáš, Wen-tau Yih, and Geoffrey Zweig. "Linguistic regularities in continuous space word representations." Proceedings of the 2013 conference of the north american chapter of the association for computational linguistics: Human language technologies. 2013. [[ link]()]
 12. Wei, Jason, and Kai Zou. "Eda: Easy data augmentation techniques for boosting performance on text classification tasks." arXiv preprint arXiv:1901.11196 (2019). [[review link](https://github.com/sooooner/papers/issues/40)]
-13. Lin, Tianyang, et al. "A Survey of Transformers." arXiv preprint arXiv:2106.04554 (2021). [[review link](https://github.com/sooooner/papers/issues/52)]
+13. **Lin, Tianyang, et al. "A Survey of Transformers." arXiv preprint arXiv:2106.04554 (2021).** [[review link](https://github.com/sooooner/papers/issues/52)]
 
 ## Word embedding
 
