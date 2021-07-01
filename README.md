@@ -69,9 +69,9 @@
 
 ## NLP
 
-1. Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems 30 (2017): 5998-6008. [[ link]()]
+1. Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems 30 (2017): 5998-6008. [[review link](https://github.com/sooooner/papers/issues/53)]
 2. Devlin, Jacob, et al. "Bert: Pre-training of deep bidirectional transformers for language understanding." arXiv preprint arXiv:1810.04805 (2018). [[review link](https://github.com/sooooner/papers/issues/39)]
-3. Madabushi, Harish Tayyar, Elena Kochkina, and Michael Castelle. "Cost-Sensitive BERT for Generalisable Sentence Classification with Imbalanced Data." arXiv preprint arXiv:2003.11563 (2020). [[ link]()]
+3. Madabushi, Harish Tayyar, Elena Kochkina, and Michael Castelle. "Cost-Sensitive BERT for Generalisable Sentence Classification with Imbalanced Data." arXiv preprint arXiv:2003.11563 (2020). [[review link](https://github.com/sooooner/papers/issues/54)]
 4. Liu, Yinhan, et al. "Roberta: A robustly optimized bert pretraining approach." arXiv preprint arXiv:1907.11692 (2019). [[ link]()]
 5. Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." Advances in neural information processing systems 27 (2014): 3104-3112. [[ link]()]
 6. Socher, Richard, et al. "Recursive deep models for semantic compositionality over a sentiment treebank." Proceedings of the 2013 conference on empirical methods in natural language processing. 2013. [[ link]()]
