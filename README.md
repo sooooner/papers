@@ -72,8 +72,8 @@
 1. Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems 30 (2017): 5998-6008. [[review link](https://github.com/sooooner/papers/issues/53)]
 2. Devlin, Jacob, et al. "Bert: Pre-training of deep bidirectional transformers for language understanding." arXiv preprint arXiv:1810.04805 (2018). [[review link](https://github.com/sooooner/papers/issues/39)]
 3. Madabushi, Harish Tayyar, Elena Kochkina, and Michael Castelle. "Cost-Sensitive BERT for Generalisable Sentence Classification with Imbalanced Data." arXiv preprint arXiv:2003.11563 (2020). [[review link](https://github.com/sooooner/papers/issues/54)]
-4. Liu, Yinhan, et al. "Roberta: A robustly optimized bert pretraining approach." arXiv preprint arXiv:1907.11692 (2019). [[ link]()]
-5. Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." Advances in neural information processing systems 27 (2014): 3104-3112. [[ link]()]
+4. Liu, Yinhan, et al. "Roberta: A robustly optimized bert pretraining approach." arXiv preprint arXiv:1907.11692 (2019). [[review link](https://github.com/sooooner/papers/issues/55)]
+5. Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." Advances in neural information processing systems 27 (2014): 3104-3112. [[review link](https://github.com/sooooner/papers/issues/57)]
 6. Socher, Richard, et al. "Recursive deep models for semantic compositionality over a sentiment treebank." Proceedings of the 2013 conference on empirical methods in natural language processing. 2013. [[ link]()]
 7. Bengio, Yoshua, et al. "A neural probabilistic language model." Journal of machine learning research 3.Feb (2003): 1137-1155. [[ link]()]
 8. Chung, Junyoung, et al. "Empirical evaluation of gated recurrent neural networks on sequence modeling." arXiv preprint arXiv:1412.3555 (2014). [[ link]()]
@@ -146,7 +146,7 @@
 
 ## Learning To Ranking
 
-1. Dong, Xishuang, et al. "An overview of learning to rank for information retrieval." 2009 WRI World Congress on Computer Science and Information Engineering. Vol. 3. IEEE, 2009. [[ link]()]
+1. Dong, Xishuang, et al. "An overview of learning to rank for information retrieval." 2009 WRI World Congress on Computer Science and Information Engineering. Vol. 3. IEEE, 2009. [[review link](https://github.com/sooooner/papers/issues/56)]
 2. Liu, Tie-Yan. Learning to rank for information retrieval. Springer Science & Business Media, 2011. [[ link]()]
 3. Pei, Changhua, et al. "Personalized re-ranking for recommendation." Proceedings of the 13th ACM Conference on Recommender Systems. 2019. [[review link](https://github.com/sooooner/papers/issues/47)]
 
